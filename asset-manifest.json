@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MargSousa/react-12-challenge/static/css/main.656f0744.chunk.css",
+    "main.js": "/MargSousa/react-12-challenge/static/js/main.7e365773.chunk.js",
+    "main.js.map": "/MargSousa/react-12-challenge/static/js/main.7e365773.chunk.js.map",
+    "runtime-main.js": "/MargSousa/react-12-challenge/static/js/runtime-main.d6c6719a.js",
+    "runtime-main.js.map": "/MargSousa/react-12-challenge/static/js/runtime-main.d6c6719a.js.map",
+    "static/js/2.5fc70593.chunk.js": "/MargSousa/react-12-challenge/static/js/2.5fc70593.chunk.js",
+    "static/js/2.5fc70593.chunk.js.map": "/MargSousa/react-12-challenge/static/js/2.5fc70593.chunk.js.map",
+    "index.html": "/MargSousa/react-12-challenge/index.html",
+    "precache-manifest.aaa0c27dcf7dc5fdd5d56b6c05a70d7c.js": "/MargSousa/react-12-challenge/precache-manifest.aaa0c27dcf7dc5fdd5d56b6c05a70d7c.js",
+    "service-worker.js": "/MargSousa/react-12-challenge/service-worker.js",
+    "static/css/main.656f0744.chunk.css.map": "/MargSousa/react-12-challenge/static/css/main.656f0744.chunk.css.map",
+    "static/js/2.5fc70593.chunk.js.LICENSE.txt": "/MargSousa/react-12-challenge/static/js/2.5fc70593.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6c6719a.js",
+    "static/js/2.5fc70593.chunk.js",
+    "static/css/main.656f0744.chunk.css",
+    "static/js/main.7e365773.chunk.js"
+  ]
+}
